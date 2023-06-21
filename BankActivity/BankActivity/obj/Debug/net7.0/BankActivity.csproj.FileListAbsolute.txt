@@ -1,0 +1,15 @@
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\bin\Debug\net7.0\BankActivity.exe
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\bin\Debug\net7.0\BankActivity.deps.json
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\bin\Debug\net7.0\BankActivity.runtimeconfig.json
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\bin\Debug\net7.0\BankActivity.dll
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\bin\Debug\net7.0\BankActivity.pdb
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.csproj.AssemblyReference.cache
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.AssemblyInfoInputs.cache
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.AssemblyInfo.cs
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.dll
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\refint\BankActivity.dll
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.pdb
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\BankActivity.genruntimeconfig.cache
+C:\Users\Razvan\Documents\BankActivity\BankActivity\BankActivity\obj\Debug\net7.0\ref\BankActivity.dll
